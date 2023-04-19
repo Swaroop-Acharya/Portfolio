@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/style.css";
+import "./style.css";
 export default function Header() {
   function toggleMenu() {
     const menu = document.querySelector(".menu-links");
